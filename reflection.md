@@ -23,3 +23,10 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+
+**What I learned:**
+
+*   Learned Streamlit fundamentals: creating titles, text, and widgets (e.g., `st.title`, `st.write`, `st.slider`).
+*   Practiced displaying data using map
+*   Introduced to `st.map` for plotting geographical data on a map.
+*   streamlit_folium library for creating interactive maps in Streamlit.
